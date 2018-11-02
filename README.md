@@ -1,3 +1,15 @@
+# 简书
+
+## 日志
+
+使用 styled-components 进行样式管理
+
+```bash
+yarn add styled-components
+```
+
+immutable.js 生成一个不可变更的对象
+redux-immutable
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
