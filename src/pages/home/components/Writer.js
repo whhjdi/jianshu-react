@@ -1,8 +1,10 @@
-import React, { Component } from "react";
-
-class List extends Component {
+import React, { PureComponent } from "react";
+import {WriterWrapper,} from '../style'
+class List extends PureComponent {
   render() {
-    return <div>List</div>;
+    return <WriterWrapper>
+      
+    </WriterWrapper>;
   }
 }
 
