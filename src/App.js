@@ -6,9 +6,10 @@ import { GlobalStyle } from "./style.js";
 import { IconFont } from "./statics/font/iconfont";
 import store from "./store";
 import Home from './pages/home'
-import Detail from './pages/detail'
+import Detail from './pages/detail/loadable.js'
 import Login from './pages/login'
 import Write from './pages/write'
+
 class App extends Component {
   render() {
     return (
