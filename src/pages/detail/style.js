@@ -15,4 +15,12 @@ font-weight:bold;
 `
 export const Content = styled.div `
     color:#2f2f2f;
+    img{
+      width:100;
+    }
+    p{
+      font-size:16px;
+      margin:25px 0;
+      line-height:30px;
+    }
   `
